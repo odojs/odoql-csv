@@ -1,2 +1,3 @@
-# odoql-csv
-CSV support in odoql
+# OdoQL CSV
+
+CSV support in OdoQL
