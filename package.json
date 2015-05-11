@@ -1,0 +1,26 @@
+{
+  "name": "odoql-csv",
+  "version": "0.0.2",
+  "description": "CSV support in OdoQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odojs/odoql-csv.git"
+  },
+  "keywords": [
+    "odoql",
+    "csv"
+  ],
+  "author": "MetOcean Solutions Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odojs/odoql-csv/issues"
+  },
+  "homepage": "https://github.com/odojs/odoql-csv",
+  "dependencies": {
+    "babyparse": "^0.4.3"
+  }
+}
